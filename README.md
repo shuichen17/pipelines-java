@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/v-wanshe/sudoku/_apis/build/status/shuichen17.pipelines-java?branchName=master)](https://dev.azure.com/v-wanshe/sudoku/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
